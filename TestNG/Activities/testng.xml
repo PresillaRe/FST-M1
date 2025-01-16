@@ -4,7 +4,7 @@
        <run>
              <include name="HeaderTests" />
              <include name="ButtonTests" />
-             <exclude name="HeaderTests" />
+             <!--<exclude name="HeaderTests" />-->
         </run>
     </groups>-->
     <parameter name="username" value="admin" />
