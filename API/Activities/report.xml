@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="REST Project 3.https&amp;colon;&amp;sol;&amp;sol;petstore.swagger.io Test Suite" tests="1" failures="0" errors="0" time="2.091" package="REST Project 3" id="1">
+  <testsuite name="Activity 4.http&amp;colon;&amp;sol;&amp;sol;ipwhois.app Test Suite" tests="1" failures="0" errors="0" time="0.081" package="Activity 4" id="1">
     <properties>
       <property name="install4j.launcherId" value="376"/>
       <property name="java.specification.version" value="17"/>
@@ -92,8 +92,11 @@
       <property name="install4j.swt" value="false"/>
       <property name="soapui.properties" value="soapui.properties"/>
     </properties>
-    <testcase name="Activity1 Test Case" time="2.091">
-      <success message="Passed steps"><![CDATA[<h3><b>POST Request Passed</b></h3><pre></pre><hr/><h3><b>Login Request Passed</b></h3><pre></pre><hr/><h3><b>GET Request Passed</b></h3><pre></pre><hr/><h3><b>Logout Request Passed</b></h3><pre></pre><hr/><h3><b>DELETE Request Passed</b></h3><pre></pre><hr/>]]></success>
+    <testcase name="http://ipwhois.app Test Case 1" time="0.081">
+      <success message="Passed steps"><![CDATA[<h3><b>Data Source Passed</b></h3><pre></pre><hr/><h3><b>Request 1 Passed</b></h3><pre></pre><hr/><h3><b>Data Source Loop Passed</b></h3><pre>Data Row 1
+</pre><hr/><h3><b>Request 1 Passed</b></h3><pre></pre><hr/><h3><b>Data Source Loop Passed</b></h3><pre>Data Row 2
+</pre><hr/><h3><b>Request 1 Passed</b></h3><pre></pre><hr/><h3><b>Data Source Loop Passed</b></h3><pre>Data Row 3
+</pre><hr/>]]></success>
     </testcase>
   </testsuite>
 </testsuites>
