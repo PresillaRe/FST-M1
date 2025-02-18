@@ -1,4 +1,4 @@
-@activty6
+
 Feature: Data driven test with DataTable
 
 @TasksDataTable
